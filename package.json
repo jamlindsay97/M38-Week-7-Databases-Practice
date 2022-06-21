@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u00003\u00008\u0000-\u0000W\u0000e\u0000e\u0000k\u0000-\u00007\u0000-\u0000D\u0000a\u0000t\u0000a\u0000b\u0000a\u0000s\u0000e\u0000s\u0000-\u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamlindsay97/M38-Week-7-Databases-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamlindsay97/M38-Week-7-Databases-Practice/issues"
+  },
+  "homepage": "https://github.com/jamlindsay97/M38-Week-7-Databases-Practice#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "^17.5.1"
+  }
+}
